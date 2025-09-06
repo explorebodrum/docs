@@ -9,24 +9,38 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "introduction"
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "introduction"
+            ]
+          }
         ]
       }
-    ]
+    ],
+    "global": {
+      "tabs": [
+        {
+          "tab": "Substack",
+          "href": "https://substack.com/@explorebodrum"
+        }
+      ]
+    }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logo.png",
+    "dark": "/logo/logo.png",
+    "text": "Explore Bodrum",
+    "href": "https://explorebodrum.com"
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/explorebodrum",
+      "github": "https://github.com/explorebodrum"
     }
   }
 }
