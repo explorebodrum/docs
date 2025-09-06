@@ -2,22 +2,3 @@ body {
   font-family: var(--font-poppins), system-ui, sans-serif;
 }
 
-/* Ensure logo and text appear together */
-.nav-logo-container {
-  display: flex !important;
-  align-items: center !important;
-  gap: 12px !important;
-}
-
-/* Logo styling */
-.nav-logo {
-  height: 32px !important;
-  width: auto !important;
-}
-
-/* Brand text next to logo */
-.nav-title {
-  font-size: 20px !important;
-  font-weight: 700 !important;
-  display: block !important;
-}
