@@ -1,11 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Explore Bodrum",
-  "logoText": "Explore Bodrum",
   "logo": {
-    "dark": "/logo/explore-bodrum-logo.png",
-    "light": "/logo/explore-bodrum-logo.png",
-    "href": "/"
+    "dark": "logo/logo.png",
+    "light": "logo/logo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
