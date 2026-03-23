@@ -1,7 +1,8 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Explore Bodrum",
+  "name": "Bodrum Relocation Guide",
+  "description": "Comprehensive guide for expats relocating from Dubai, Qatar, and the Middle East to Bodrum, Turkey",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -18,28 +19,63 @@
             "pages": [
               "introduction"
             ]
+          },
+          {
+            "group": "Why Bodrum",
+            "pages": [
+              "why-bodrum/overview",
+              "why-bodrum/cost-of-living",
+              "why-bodrum/safety",
+              "why-bodrum/lifestyle",
+              "why-bodrum/climate"
+            ]
+          },
+          {
+            "group": "Getting Started Setup",
+            "pages": [
+              "getting-started/overview",
+              "getting-started/visa-and-residency",
+              "getting-started/accommodation",
+              "getting-started/banking",
+              "getting-started/healthcare"
+            ]
+          },
+          {
+            "group": "Living in Bodrum",
+            "pages": [
+              "living-in-bodrum/overview",
+              "living-in-bodrum/neighborhoods",
+              "living-in-bodrum/transportation",
+              "living-in-bodrum/utilities",
+              "living-in-bodrum/education"
+            ]
+          },
+          {
+            "group": "Work & Business",
+            "pages": [
+              "work-and-business/overview",
+              "work-and-business/employment",
+              "work-and-business/starting-business",
+              "work-and-business/freelancing",
+              "work-and-business/taxes"
+            ]
+          },
+          {
+            "group": "Practical Information",
+            "pages": [
+              "practical-information/overview",
+              "practical-information/essential-services",
+              "practical-information/language",
+              "practical-information/culture",
+              "practical-information/expat-communities"
+            ]
           }
         ]
       }
-    ],
-    "global": {
-      "tabs": [
-        {
-          "tab": "Substack",
-          "href": "https://substack.com/@explorebodrum"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/logo.png",
-    "dark": "/logo/logo_dark.png",   
-    "href": "https://explorebodrum.com"
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/explorebodrum",
-      "github": "https://github.com/explorebodrum"
-    }
+    "dark": "/logo/logo_dark.png"
   }
 }
